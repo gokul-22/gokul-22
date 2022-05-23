@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gokul-22
+- 👋 Hi, I’m Gokul
 - 👀 I’m interested in AWS and Backend development
 - 🌱 I’m currently working as an backend developer
 - 📫 How to reach me - gokulraghu2208@gmail.com
